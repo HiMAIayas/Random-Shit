@@ -1,2 +1,2 @@
 # Random Shit
-some random shit and small project
+Some random shit of tremendously mini project of various languages because I just want to.

@@ -31,7 +31,10 @@ def solver(sudoku,index=0):
 
 def psd(sudoku): #for debugging
     print()
-    for i in sudoku:print(i)
+    for row in sudoku:
+        for i in row:
+            print(i,end=" ")
+        print()
     print()
         
 sudoku = [[0,0,9,0,5,0,0,0,0],
